@@ -1,0 +1,9 @@
+{
+  "name": "accountant",
+  "version": "0.0.1",
+  "description": "accountant hm",
+  "main": "index.js",
+  "repository": "https://github.com/MrZhangZc/accountant.git",
+  "author": "张智超 <jiayouzzc@126.com>",
+  "license": "MIT"
+}
